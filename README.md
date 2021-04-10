@@ -1,11 +1,11 @@
 For perfect square,
-![When the number is a perfect square]("https://i.imgur.com/ZVzdCf3.gif")
+![When the number is a perfect square](https://i.imgur.com/ZVzdCf3.gif)
 
 For non-perfect square,
-![When the number is a non-perfect square]("https://i.imgur.com/JLkSMtE.gif")
+![When the number is a non-perfect square](https://i.imgur.com/JLkSMtE.gif)
 
 For decimal,
-![When the number is a decimal]("https://i.imgur.com/JbJ67Wx.gif")
+![When the number is a decimal](https://i.imgur.com/JbJ67Wx.gif)
 
 
 **Limitations:**

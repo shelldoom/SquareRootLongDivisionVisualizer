@@ -1,18 +1,18 @@
 For perfect square,
-![example]()
+![When the number is a perfect square]("https://i.imgur.com/ZVzdCf3.gif")
 
 For non-perfect square,
-![example]()
+![When the number is a non-perfect square]("https://i.imgur.com/JLkSMtE.gif")
 
 For decimal,
-![example]()
+![When the number is a decimal]("https://i.imgur.com/JbJ67Wx.gif")
 
 
 **Limitations:**
 
 1. Precision can't be 0.
 2. Indentation between "|" character and dividend is increased by one space character every step. 
-3. Can have various optimizations somewhere
+3. Can have various optimizations somewhere.
 
 **Resources**
 

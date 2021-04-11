@@ -150,7 +150,7 @@ def sqrt_long_div(num: int, precision:int = 5):
     
 
     for i in range(len(after_dividend)):
-        print(str(after_dividend[i]).rjust(divisor_space_limit), end=" |")
+        print(str(after_divisor[i]).rjust(divisor_space_limit), end=" |")
         print(divisor_space + str(after_dividend[i]))
         print(" "*divisor_space_limit + " |" + divisor_space + str(after_divisor[i]*after_quotient[i]))
         print(" "*divisor_space_limit + _bar)

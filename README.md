@@ -1,18 +1,16 @@
-For perfect square,
-![When the number is a perfect square](https://i.imgur.com/ZVzdCf3.gif)
+Usage Example,
 
-For non-perfect square,
-![When the number is a non-perfect square](https://i.imgur.com/JLkSMtE.gif)
+1. Square root of number whose square root is irrational
+2. Square Root of perfect square
+3. Square Root of decimal number
 
-For decimal,
-![When the number is a decimal](https://i.imgur.com/JbJ67Wx.gif)
-
+![Usage Example](https://i.imgur.com/1ts2eZ6.gif)
 
 **Limitations:**
 
 1. Precision can't be 0.
 2. Indentation between "|" character and dividend is increased by one space character every step. 
-3. Can have various optimizations somewhere.
+3. Needs optimization.
 
 **Resources**
 

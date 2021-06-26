@@ -1,16 +1,17 @@
 Usage Example,
 
-1. Square root of number whose square root is irrational
-2. Square Root of perfect square
-3. Square Root of decimal number
+1. Square root of a number whose square root is irrational
+2. Square Root of a perfect square
+3. Square Root of a decimal number
 
 ![Usage Example](https://i.imgur.com/1ts2eZ6.gif)
 
 **Limitations:**
 
-1. Precision can't be 0.
-2. Indentation between "|" character and dividend is increased by one space character every step. 
-3. Needs optimization.
+1. Eager Valuation i.e. evaluated first, then the results are printed
+2. Precision can't be 0.
+3. Indentation between "|" character and dividend is increased by one space character every step. 
+4. Needs optimization.
 
 **Resources**
 

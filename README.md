@@ -8,10 +8,9 @@ Usage Example,
 
 **Limitations:**
 
-1. Eager Valuation i.e. evaluated first, then the results are printed
-2. Precision can't be 0.
-3. Indentation between "|" character and dividend is increased by one space character every step. 
-4. Needs optimization.
+1. Precision can't be 0.
+2. Instead of actually calculating the required indentation between `|` character and dividend, it is simply increased by one space character every step
+3. Eager valuation i.e. evaluated first, then the results are printed
 
 **Resources**
 
